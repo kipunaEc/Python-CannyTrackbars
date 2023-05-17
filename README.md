@@ -1,6 +1,6 @@
 # Python-CannyTrackbars
 
-Descargue el repositorio y cambie el path en el código para leer sus propias imagenes
+Descargue el repositorio y cambie el path en el script **cannyTrackbar.py** para leer sus propias imagenes
 
 📸  Créditos de las imágenes:
 
